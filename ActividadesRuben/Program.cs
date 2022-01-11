@@ -10,6 +10,7 @@ namespace ActividadesRuben
     {
         static void Main(string[] args)
         {
+            string cadena;
             //Console.Write("Dame tu nombre completo por favor ");
             //string nombreCompleto = Console.ReadLine();
             //Console.WriteLine("Hola " + nombreCompleto);
